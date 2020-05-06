@@ -1,2 +1,1 @@
-# Data-Structure
-My own way of learning data structure.
+1.c           ------>             三元组矩阵和十字链表的基础函数
